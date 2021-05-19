@@ -1,10 +1,17 @@
-# python
- 
- """
- 
- 대학교 1학년 : 더 잘하고 싶어요!
- 
- """
+# Python, C++, Java, Go
+
+import fire as F
+
+def student_1(v, h):
+   
+   distance = v * h
+   
+   return distance
  
  print("hello, world!")
+ 
+ V = f.hard
+ H = f.vitality
+ 
+ print(student_1(V, H))
  
