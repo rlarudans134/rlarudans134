@@ -8,7 +8,6 @@ def student_1(v, h):
  
 print("hello, world!")
  
-V = f.hard
-H = f.vitality
- 
+V, H = f.vitality_hard
+
 print(student_1(V, H))
